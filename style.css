@@ -22,7 +22,7 @@ body{
 
 .slider input::-webkit-slider-thumb{
   -webkit-appearance: none;
-  width: 10px;
+  width: 5px;
   height: 700vh;
   background-color: #111;
   cursor: pointer;
