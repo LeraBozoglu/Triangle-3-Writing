@@ -31,7 +31,7 @@ body{
 .original-image{
   position: absolute;
   left: 0;
-  width: 100%;
+  width: 20%;
   height: 400vh;
   background: url(1-01.jpg) no-repeat;
   background-position: 0 center;
